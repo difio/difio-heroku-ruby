@@ -49,7 +49,5 @@ Updating dependencies
 Whenever you change your application to include new dependencies or
 upgrade/downgrade package versions you should re-submit the information to Difio.
 
-::
-
         heroku run /app/bin/difio-heroku
 
