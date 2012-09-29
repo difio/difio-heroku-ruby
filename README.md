@@ -34,9 +34,9 @@ Installing inside your Heroku application
 
 - Execute the registration script to submit the information to Difio
 
-    heroku run /app/bin/difio-heroku
-    Running `/app/bin/difio-heroku` attached to terminal... up, run.1
-    Success, registered/updated application 8370e3be-6e54-462d-9ca9-224301c29a1d
+        heroku run /app/bin/difio-heroku
+        Running `/app/bin/difio-heroku` attached to terminal... up, run.1
+        Success, registered/updated application 8370e3be-6e54-462d-9ca9-224301c29a1d
 
 
 That's it, you can now check your application statistics at http://www.dif.io
@@ -51,5 +51,5 @@ upgrade/downgrade package versions you should re-submit the information to Difio
 
 ::
 
-    heroku run /app/bin/difio-heroku
+        heroku run /app/bin/difio-heroku
 
